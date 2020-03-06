@@ -1,5 +1,9 @@
 # flutter_qibla_compass
 
+
+<p float="left">
+<img src="https://user-images.githubusercontent.com/10207753/76083818-41343c00-5fd0-11ea-96bf-ee731d69fc9a.jpg" width="220" height="450" /> 
+
 A new Flutter application.
 
 ## Getting Started
